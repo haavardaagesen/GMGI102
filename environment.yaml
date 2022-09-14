@@ -1,0 +1,32 @@
+name: gmgi102
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - bokeh
+  - contextily
+  - esda
+  - folium
+  - geojson
+  - geopandas
+  - geopy
+  - jupyterlab
+  - jupyterlab-git
+  - mapclassify
+  - matplotlib
+  - mplleaflet
+  - networkx
+  - osmnx
+  - pandas
+  - pysal
+  - pyrosm
+  - rasterio
+  - scipy
+  - scikit-learn
+  - seaborn
+  - shapely
+  - tqdm
+  - xlrd
+  - xlsxwriter
