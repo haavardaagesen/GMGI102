@@ -7,7 +7,6 @@ dependencies:
   - python=3.10
   - bokeh
   - contextily
-  - esda
   - folium
   - geojson
   - geopandas
@@ -23,10 +22,7 @@ dependencies:
   - pysal
   - pyrosm
   - rasterio
-  - scipy
-  - scikit-learn
   - seaborn
   - shapely
   - tqdm
   - xlrd
-  - xlsxwriter
