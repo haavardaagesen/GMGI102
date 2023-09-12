@@ -5,7 +5,5 @@ channels:
 
 dependencies:
   - python=3.10
-  - contextily=1.2.0
   - jupyterlab=3.4.7
-  - pandas=1.4.4
   - shapely=1.8.4
